@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ca34f3c5-e4e1-4561-9b8f-d72037c69c8d" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
@@ -13,6 +14,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitlab-ci.yml" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +31,10 @@
   <component name="FileEditorManager">
     <leaf>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,7 +47,10 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <file leaf-file-name="MutationCreateEmployee.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GraphQL/MutationCreateEmployee.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,12 +62,15 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="employeeCreateForm.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/employees/employeeCreateForm/employeeCreateForm.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="975">
               <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <file leaf-file-name="QueryAllEmployee.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GraphQL/QueryAllEmployee.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,7 +86,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="51" column="82" lean-forward="false" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="82" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -85,12 +101,17 @@
         <entry file="file://$PROJECT_DIR$/src/components/header/header.jsx">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="225">
               <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="54" />
 =======
             <state relative-caret-position="165">
               <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+            <state relative-caret-position="165">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -98,6 +119,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
@@ -115,22 +137,31 @@
             <state relative-caret-position="75">
               <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
               <caret line="261" column="0" lean-forward="true" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
               <folding />
             </state>
           </provider>
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="false">
 =======
       <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="true">
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+      <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="true">
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
         <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -154,12 +185,17 @@
         <entry file="file://$PROJECT_DIR$/src/components/employees/employeeNav/employeeNav.jsx">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="90">
               <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
 =======
             <state relative-caret-position="195">
               <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+            <state relative-caret-position="195">
+              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -167,6 +203,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="employeeInfo.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/employees/employeeInfo/employeeInfo.jsx">
@@ -180,6 +217,8 @@
       </file>
 =======
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <file leaf-file-name="employeeTable.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/employees/employeeInfo/employeeTable.jsx">
           <provider selected="true" editor-type-id="text-editor">
@@ -203,13 +242,19 @@
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/components/employeeNav/employeeNav.jsx" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/components/App.js" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
         <option value="$PROJECT_DIR$/src/components/employees/employeeNav/employeeNav.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/employees/employeeInfo/employeeInfo.jsx" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/aws-exports.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
@@ -217,6 +262,7 @@
         <option value="$PROJECT_DIR$/src/components/employees/employeeInfo/employeeTable.jsx" />
         <option value="$PROJECT_DIR$/src/GraphQL/QueryGetEmployee.js" />
         <option value="$PROJECT_DIR$/src/GraphQL/MutationCreateEmployee.js" />
+<<<<<<< HEAD
 <<<<<<< HEAD
         <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
         <option value="$PROJECT_DIR$/public/index.html" />
@@ -226,11 +272,16 @@
         <option value="$PROJECT_DIR$/src/components/employees/employeeCreateForm/employeeCreateForm.jsx" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
         <option value="$PROJECT_DIR$/src/components/employees/employeeCreateForm/employeeCreateForm.jsx" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/src/components/header/header.jsx" />
         <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       </list>
     </option>
   </component>
@@ -306,6 +357,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
+<<<<<<< HEAD
               <item name="employees" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -339,6 +391,8 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
 =======
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
               <item name="header" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -393,14 +447,19 @@
       <option name="presentableId" value="Default" />
       <updated>1547953350389</updated>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1547953351792" duration="16433000" />
 =======
       <workItem from="1547953351792" duration="14904000" />
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+      <workItem from="1547953351792" duration="15128000" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="16433000" />
 =======
@@ -410,6 +469,12 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="15128000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -418,7 +483,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -487,7 +556,10 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -496,7 +568,10 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -508,18 +583,28 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/src/components/employees/employeeInfo/employeeInfo.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#0#38#0" expanded="true" />
+=======
+            <element signature="e#0#38#0" expanded="false" />
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -563,6 +648,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/GraphQL/QueryAllEmployee.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -576,6 +662,8 @@
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/src/components/employees/employeeNav/employeeNav.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -590,16 +678,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           <folding />
         </state>
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/GraphQL/MutationCreateEmployee.js">
 =======
     <entry file="file://$PROJECT_DIR$/src/GraphQL/QueryGetEmployee.js">
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+    <entry file="file://$PROJECT_DIR$/src/GraphQL/QueryGetEmployee.js">
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -607,6 +702,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -631,12 +727,15 @@
           <folding>
             <element signature="e#0#38#0" expanded="true" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/src/components/employees/employeeInfo/employeeTable.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="62" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
           </folding>
         </state>
@@ -649,15 +748,20 @@
           <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/components/employees/employeeInfo/employeeTable.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="62" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/src/GraphQL/MutationCreateEmployee.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -670,7 +774,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="51" column="82" lean-forward="false" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="82" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -678,20 +785,27 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/components/employees/employeeInfo/employeeInfo.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="52" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="261" column="0" lean-forward="true" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/components/employees/employeeCreateForm/employeeCreateForm.jsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -700,28 +814,39 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/src/components/header/header.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="290" column="28" lean-forward="true" selection-start-line="290" selection-start-column="28" selection-end-line="290" selection-end-column="28" />
 =======
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
     <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+<<<<<<< HEAD
 >>>>>>> 36fdb80a496a5f16cd50df4eeb8c8dac9cf0ec3a
+=======
+>>>>>>> d8ee7f0c2a7da06b8ab4f668c68325048f9fa3b4
           <folding />
         </state>
       </provider>
