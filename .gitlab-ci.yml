@@ -1,0 +1,72 @@
+variables:
+  S3_BUCKET_NAME: "velotio-assignment"
+# This file is a template, and might need editing before it works on your project.
+# Official framework image. Look for the different tagged releases at:
+# https://hub.docker.com/r/library/node/tags/
+image: node:latest
+
+# This folder is cached between builds
+# http://docs.gitlab.com/ce/ci/yaml/README.html#cache
+cache:
+  paths:
+  - node_modules/
+  - build
+
+stages:
+    - build
+    - test
+    - deploy
+    - buildForAWSS3
+    - deployToAWSS3
+
+install_packages:
+    stage: build
+    script:
+        - npm install
+    artifacts:
+        paths:
+            - node_modules/
+
+test_with_testcases:
+    stage: test
+    script:
+        # - npm test
+        - echo hello
+
+pages:
+    environment: staging
+    stage: deploy
+    script:
+        - CI=false npm run build
+        - rm -rf public
+        - mv build public
+    artifacts:
+        paths:
+            - public
+    except:
+        - master
+
+
+
+
+buildForAWSS3:
+    stage: buildForAWSS3
+    script:
+        - CI=false npm run build
+    only:
+        - master
+    allow_failure: false
+
+deployToAWSS3:
+    environment: production
+    stage: deployToAWSS3
+    image: python:2
+    script:
+        - apt-get update && apt-get install -y libpython-dev python-dev
+        - pip install awscli==1.11.18
+        - ls
+        - aws s3 cp ./build s3://$S3_BUCKET_NAME/ --recursive
+    only:
+        - master
+    when: manual
+    allow_failure: false
